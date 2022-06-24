@@ -359,7 +359,7 @@ header nav ul a:hover {
 }
 
 .about .container img {
-    max-width: 350px;
+    max-width: 300px;
 }
 
 .pop-up {
@@ -525,7 +525,7 @@ header nav ul a:hover {
 
 .service .container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 3fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 3fr));
     gap: 20px;
     background-color: #f6f6f6;
     margin-top: -100px;
